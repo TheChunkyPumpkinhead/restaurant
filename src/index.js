@@ -107,14 +107,21 @@ function Pizza(props) {
 
 function Footer() {
   const hour = new Date().getHours();
-  const openHour = 8;
-  const closeHour = 22;
+  const openHour = 2;
+  const closeHour = 24;
   const isOpen = hour >= openHour && hour <= closeHour;
   console.log(isOpen);
 
   return (
     <footer className="footer">
-      {new Date().toLocaleTimeString()}, We're currently open
+      {isOpen && (
+        <div className="order">
+          <p>
+            We're open untill {closeHour}:00. Come visit us or order online.
+          </p>
+          <button className="btn">Order</button>
+        </div>
+      )}
     </footer>
   );
 }
