@@ -2,15 +2,26 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## App Features
+## App Features:
 
-## App uses .map
+## Functions.
 
-rubish rubish
-akjhflkhal ajhflkahlkhla ajhflkjahg;gja;kas
+## Components.
 
-## ahkjshlfkjhal akjhlkfjah;kghj;
+## props.
 
-## akfjahkfhkajghlka amnvna
+## Functions.
 
-# ahkjahlfhlafa
+## Components.
+
+## props.
+
+## JavaScript map method.
+
+## conditional rendering.
+
+## the end operator,
+
+## the ternary operator,
+
+## and also using multiple returns.
