@@ -4,24 +4,24 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## App Features:
 
-# Functions.
+### Functions.
 
-# Components.
+### Components.
 
-# props.
+### props.
 
-# Functions.
+### Functions.
 
-# Components.
+### Components.
 
-# props.
+### props.
 
-# JavaScript map method.
+### JavaScript map method.
 
-# conditional rendering.
+### conditional rendering.
 
-# the end operator,
+### the end operator,
 
-# the ternary operator,
+### the ternary operator,
 
-# and also using multiple returns.
+### and also using multiple returns.
